@@ -1,0 +1,9 @@
+**/*.exe
+**/*.dll
+**/*.ogg
+**/*.cmv
+data/announcement/**
+data/dipscript/**
+data/help/**
+data/objects/**
+data/index
