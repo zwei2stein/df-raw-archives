@@ -4,6 +4,14 @@ See command_line.txt for information on world generation from command lines.
 
 ******************************************************
 
+Auxiliary file changes for 0.47.05:
+
+	creatures
+		grasshopper gets [VERMIN_GROUNDER]
+		leopard geckos don't have sticky feet - removed prefstring
+
+******************************************************
+
 Auxiliary file changes for 0.47.04
 
 	creatures
